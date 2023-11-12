@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 
-subtitle: 
-description: 
+title: XianGong Blog
+subtitle: 善始者众，善终者寡
+description: 善始者众，善终者寡
 author: XianGong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: "https://wxg.github.io"
+url: "https://dennisxwu.github.io"
 baseurl:
 permalink: pretty
 
